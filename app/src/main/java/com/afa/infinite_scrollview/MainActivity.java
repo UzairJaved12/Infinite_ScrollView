@@ -24,10 +24,10 @@ public class MainActivity extends AppCompatActivity {
 
     }
     private void iniData(){
-        pic.add(R.drawable.joker);
-        pic.add(R.drawable.lion);
-        pic.add(R.drawable.elephant);
-        pic.add(R.drawable.cat);
-        pic.add(R.drawable.monkey);
+        pic.add(R.drawable.pic_five);
+        pic.add(R.drawable.pic_four);
+        pic.add(R.drawable.pic_three);
+        pic.add(R.drawable.pic_two);
+        pic.add(R.drawable.pic_one);
     }
 }
